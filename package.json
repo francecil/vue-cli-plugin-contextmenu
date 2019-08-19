@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-contextmenu",
+  "version": "1.0.0",
+  "description": "vue-cli 3 plugin to add @gahing/vcontextmenu",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francecil/vue-cli-plugin-contextmenu.git"
+  },
+  "keywords": [
+    "contextmenu",
+    "vcontextmenu",
+    "vue",
+    "vue-cli",
+    "plugin",
+    "cli"
+  ],
+  "author": "gahing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francecil/vue-cli-plugin-contextmenu/issues"
+  },
+  "homepage": "https://github.com/francecil/vue-cli-plugin-contextmenu#readme"
+}
